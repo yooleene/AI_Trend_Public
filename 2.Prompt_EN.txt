@@ -155,14 +155,14 @@ Please explain the graph above and draw implications
 
 
 
-11.Scan Image Summary 스캔 이미지 요약
+11.Scan Image Summary
 
 Please analyze the uploaded card slip and print it out as below
 - Make a table and make the column "number", "date", "customer", and "amount"
 
 
 
-12.Discovery of ideas - 40 principles of invention 40 가지 발명원리
+12.Discovery of ideas - 40 principles of invention 40
 
 You are a TRIZ expert.
 In order to clean blankets and carpets cleanly with a vacuum cleaner,
@@ -174,7 +174,7 @@ Please explain in detail.
 
 
 
-13.Discovery of ideas - Da Vinci Skill (combination method) 다빈치 스킬 (조합법)
+13.Discovery of ideas - Da Vinci Skill (combination method)
 
 I'm going to make a new kimbap. Please make a new kimbap using the procedure below.
 (Main ingredients, shape, color, scent, size)
@@ -198,7 +198,7 @@ please come up with three ideas for preventing safety accidents.
 
 
 
-15.management science 경영과학
+15.management science
 
 It takes 5kg of raw material and 1kw/h of power to make 1kg of product A
 To make 1kg of product B, 3kg of raw material 
@@ -211,7 +211,7 @@ Can't use it. Solve the problem with linear programming
 
 
 
-16.Create an image 이미지 생성
+16.Create an image
 
 1)
 
