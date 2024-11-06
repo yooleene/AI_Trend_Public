@@ -6,7 +6,8 @@ Context:
 This closed posting can be accessed through the following steps:
 Click on [Recruitment Posting Management] in the POSCO Recruitment Solution.
 Click on [Closed Recruitment] at the top to view the posting.
-※ If you want to repost the closed posting, set [POSCO Posting] to ON in [Posting Settings] and reset the [Posting End Date].
+※ If you want to repost the closed posting,
+set [POSCO Posting] to ON in [Posting Settings] and reset the [Posting End Date].
 ---
 
 Prompt:
@@ -14,8 +15,10 @@ Prompt:
 Answer the question based on the data from the Job Posting. 
 Find the most relevant content to the question and quote phrases accurately. 
 Do not generate content that is not included in the Job Posting data. 
-If the question is not relevant to the Job Posting data, respond with "We can’t find the related data.“
-Verify if you know the accurate answer to the question or if you have sufficient information to respond.
+If the question is not relevant to the Job Posting data,
+respond with "We can’t find the related data.“
+Verify if you know the accurate answer to the question
+or if you have sufficient information to respond.
 Answer only when you can provide accurate information based on rich data. .
 If you are unsure about the answer, respond with: "We’re sorry, we can’t find the answer."
 
@@ -38,12 +41,17 @@ Can you tabulate how to exercise regularly?
 
 3.Creating a Report 보고서 작성
 
-Please answer the following five conditions and how to activate intergenerational communication within the department.
+Please answer the following five conditions
+and how to activate intergenerational communication within the department.
 1. You are an expert in communication within the organization.
-2. Answer with the highest level of professional in the field of communication in the workplace/organizational culture.
-3. Information is obtained from 'research institution, administrative agency data, association data, thesis, academic journal, academic journal, publication material, corporate education material, encyclopedia'.
+2. Answer with the highest level of professional in the field of communication
+in the workplace/organizational culture.
+3. Information is obtained from 'research institution, administrative agency data,
+association data, thesis, academic journal, academic journal,
+publication material, corporate education material, encyclopedia'.
 4. The answer should be 'bullied'.
-5. Please write a report on "How to activate intergenerational communication within the department" to report to the president
+5. Please write a report on "How to activate intergenerational communication with
+in the department" to report to the president
 
 
 
@@ -63,3 +71,124 @@ Collect situations, battery market trends, leisure sports trends, etc
 SWOT analysis shows the new strategy of the electric bicycle company
 Please set it up
 
+
+
+5.A survey of data 자료 조사
+
+Find 10 Latest Data On EV Market Outlook
+
+Please find and summarize 5 papers related to the creativity of the organization
+and draw implications for POSCO
+
+
+6.Create an idea 아이다어 발산/자료요약
+
+I'm going to derive the items I need for a three-day trip to Jeju Island
+Draw it with a mind map
+
+"Posco Sustainable Management Report Uploaded"
+Derive the main keywords from the pdf file you just uploaded
+Draw it with a mind map
+
+
+
+7.Create an email 이메일 작성
+
+I need to write an e-mail to protest against the breach of the delivery contract requirements,
+Write it in a style that can convince the other company
+
+I need to write an e-mail to the staff about the "Safety Accident Prevention Ideas Discussion" meeting,
+please write it in a natural and friendly way
+
+I'm trying to place an order for building materials urgently, politely to the supplier
+Please write an e-mail requesting delivery
+
+
+
+8.PDF Summary PDF 요약
+
+The attached file is the semi-annual report of POSCO Holdings Company.
+I am the manager of POSCO Holdings, which establishes management strategies.
+Read the semi-annual report and discuss key management improvement issues related to our department
+Find and summarize. Write it in the table form below.
+
+#Formality
+-The table consists of five columns.
+-From column 1, number, title, core content, importance (display by 5-point scale)
+
+
+
+9.Statistical Analysis 통계 분석
+
+You are a statistician, please analyze the following data as below
+  - A : 73.4 77.0 73.7 73.3 73.1 71.5 74.5 77.5 76.4 77.7
+  - B : 68.7 71.4 69.8 75.3 71.3 72.7 66.9 70.2 74.4 70.1
+① Hypothesis established as follows
+  - H0: There is no difference between the population means of the two groups.
+  - H1: There is a difference in the population mean of the two groups.
+② Test whether there is a difference in the population mean between the two groups
+(significance level 0.05)
+③ Draw a box plot comparing the two groups
+④ Tell me the statistics and interpret the test results
+
+
+10.Scan Image Analysis 스캔 이미지 분석
+
+Please explain the graph above and draw implications
+
+
+
+11.Scan Image Summary 스캔 이미지 요약
+
+Please analyze the uploaded card slip and print it out as below
+- Make a table and make the column "number", "date", "customer", and "amount"
+
+
+
+12.Discovery of ideas - Da Vinci Skill (combination method) 다빈치 스킬 (조합법)
+
+I'm going to make a new kimbap. Please make a new kimbap using the procedure below.
+(Main ingredients, shape, color, scent, size)
+1. Derive alternatives by component (5 types)
+2. Randomly combine alternatives to come up with new gimbap ideas (5 recommendations)
+
+
+
+13.Discovery of ideas - Brainstorm
+
+This is an apartment construction site.
+Safety accidents such as jamming, falls, falls,
+and explosions occur frequently,
+so you should brainstorm to come up with ideas to prevent safety accidents.
+Among the three brainstorming participants,
+A is the type of critical thinking,
+B is creative thinking,
+and C is the type that derives ideas from an economic point of view.
+From the perspective of three people,
+please come up with three ideas for preventing safety accidents.
+
+
+
+14.management science 경영과학
+
+It takes 5kg of raw material and 1kw/h of power to make 1kg of product A
+To make 1kg of product B, 3kg of raw material 
+and 3kw/h of electric power are required.
+Product A has a profit of 4,000 won per kg and product B has a profit of 7,000 won per kg
+It happens.
+How many kilograms should we make for each product at this time?
+However, the raw material is 21 kg and the power is only 9 kw/h per hour in the entire factory
+Can't use it. Solve the problem with linear programming
+
+
+
+15.Create an image 이미지 생성
+
+Draw me a Siamese cat
+
+Please create an image by referring to the contents below
+- Three 'Posco' employees in suits, meeting in a large windowed conference room
+- Beyond the window, you can see small mountains
+and modern buildings, in the conference room there are clocks and laptops,
+and a frame called 'POSCO' hangs on the wall
+- Employees are laughing and drinking coffee
