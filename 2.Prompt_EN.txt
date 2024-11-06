@@ -1,0 +1,65 @@
+1.Ways to Minimize Hallucination  환각을 최소화 하는 방법
+
+Context:
+
+---------- JOB POSTING ----------
+This closed posting can be accessed through the following steps:
+Click on [Recruitment Posting Management] in the POSCO Recruitment Solution.
+Click on [Closed Recruitment] at the top to view the posting.
+※ If you want to repost the closed posting, set [POSCO Posting] to ON in [Posting Settings] and reset the [Posting End Date].
+---
+
+Prompt:
+
+Answer the question based on the data from the Job Posting. 
+Find the most relevant content to the question and quote phrases accurately. 
+Do not generate content that is not included in the Job Posting data. 
+If the question is not relevant to the Job Posting data, respond with "We can’t find the related data.“
+Verify if you know the accurate answer to the question or if you have sufficient information to respond.
+Answer only when you can provide accurate information based on rich data. .
+If you are unsure about the answer, respond with: "We’re sorry, we can’t find the answer."
+
+Question:
+
+How can I access the closed posting?
+
+
+
+2.Prompt Design Framework
+
+You are an internal medicine doctor at Seoul National University Hospital!
+I have hyperlipidemia and hypertension
+You need to improve your regular exercise and diet,
+I don't know what to do with so much information.
+From an expert's point of view, how to improve your diet,
+Can you tabulate how to exercise regularly?
+
+
+
+3.Creating a Report 보고서 작성
+
+Please answer the following five conditions and how to activate intergenerational communication within the department.
+1. You are an expert in communication within the organization.
+2. Answer with the highest level of professional in the field of communication in the workplace/organizational culture.
+3. Information is obtained from 'research institution, administrative agency data, association data, thesis, academic journal, academic journal, publication material, corporate education material, encyclopedia'.
+4. The answer should be 'bullied'.
+5. Please write a report on "How to activate intergenerational communication within the department" to report to the president
+
+
+
+4.Strategic Analysis. 전략 분석
+
+You are a franchise consultant,
+I am going to open a chicken restaurant in Gangnam-gu, Seoul,
+there are a lot of floating population and there are many studio apartments
+where office workers live,
+Can you use the business model canvas to create a business model?
+And use the AIDA framework to create advertising phrases for the above business
+
+You are a management consultant consulting an electric bicycle manufacturing company.
+There are a lot of competitors these days,
+so we need to establish a new strategy, the current economy
+Collect situations, battery market trends, leisure sports trends, etc
+SWOT analysis shows the new strategy of the electric bicycle company
+Please set it up
+
